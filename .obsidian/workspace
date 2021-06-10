@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f0818505d04c98c7",
+        "id": "3e084204169b4315",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -86,9 +86,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f0818505d04c98c7",
+  "active": "3e084204169b4315",
   "lastOpenFiles": [
     "README.md",
+    "OSCP Preparation/linux/shocker/10 - enumeration.md",
     "linux/lame/imported notes.md",
     "windows/optimum/enumeration and exploit.md",
     "Assorted Notes and Tips.md",

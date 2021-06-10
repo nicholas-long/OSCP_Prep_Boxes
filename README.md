@@ -1,17 +1,14 @@
 
-# Assorted Tips
-[test](assorted_notes_and_tips.md)
-
 # list of boxes and completion
 
 ## linux
 - [x] lame [[linux/lame/imported notes]](linux/lame/imported notes.md)
 - [ ] brainfuck
-- [x] shocker [[OSCP Preparation/linux/shocker/10 - enumeration]]
-- [x] bashed [[OSCP Preparation/linux/bashed/10 - enumeration]]
+- [x] shocker [[linux/shocker/10 - enumeration]](linux/shocker/10 - enumeration.md)
+- [x] bashed [[linux/bashed/10 - enumeration]](linux/bashed/10 - enumeration.md)
 - [ ] nibbles
-- [x] beep [[OSCP Preparation/linux/beep/imported notes]]
-- [x] cronos [[OSCP Preparation/linux/cronos/10 - Enumeration]]
+- [x] beep [[linux/beep/imported notes]](linux/beep/imported notes.md)
+- [x] cronos [[linux/cronos/10 - Enumeration]](linux/cronos/10 - Enumeration.md)
 - [ ] nineveh
 - [ ] sense
 - [ ] solidstate
@@ -23,10 +20,10 @@
 - [ ] tartarsauce
 
 ## windows
-- [x] legacy [[OSCP Preparation/windows/legacy/imported notes]]
-- [x] Blue [[OSCP Preparation/windows/blue/imported notes]]
-- [x] Devel [[OSCP Preparation/windows/devel/imported notes]]
-- [x] Optimum [[enumeration and exploit]]
+- [x] legacy [[windows/legacy/imported notes]](windows/legacy/imported notes.md)
+- [x] Blue [[windows/blue/imported notes]](windows/blue/imported notes.md)
+- [x] Devel [[windows/devel/imported notes]](windows/devel/imported notes.md)
+- [x] Optimum [[enumeration and exploit]](windows/optimum/enumeration and exploit.md)
 - [ ] Bastard
 - [ ] granny
 - [ ] Arctic
