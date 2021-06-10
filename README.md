@@ -2,7 +2,7 @@
 # list of boxes and completion
 
 ## linux
-- [x] lame [notes](linux/lame/imported notes.md)
+- [x] lame [[linux/lame/imported notes]](linux/lame/imported%20notes.md)
 - [ ] brainfuck
 - [x] shocker [linux/shocker/10 - enumeration](linux/shocker/10 - enumeration.md)
 - [x] bashed [linux/bashed/10 - enumeration](linux/bashed/10 - enumeration.md)
