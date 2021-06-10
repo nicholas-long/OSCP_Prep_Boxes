@@ -8,7 +8,7 @@
 - [x] bashed [[linux/bashed/10 - enumeration]](linux/bashed/10%20-%20enumeration.md)
 - [ ] nibbles
 - [x] beep [[linux/beep/imported notes]](linux/beep/imported%20notes.md)
-- [x] cronos [[linux/cronos/10 - Enumeration]](linux/cronos/10%20-%20Enumeration.md)
+- [x] cronos [[linux/cronos/README]](linux/cronos/README.md)
 - [ ] nineveh
 - [ ] sense
 - [ ] solidstate

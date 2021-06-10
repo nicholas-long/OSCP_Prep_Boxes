@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/cronos/README.md",
-            "mode": "preview"
+            "file": "README.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/cronos/README.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "3e084204169b4315",
   "lastOpenFiles": [
-    "linux/cronos/README.md",
     "README.md",
+    "linux/cronos/README.md",
     "windows/optimum/enumeration and exploit.md",
     "windows/legacy/imported notes.md",
     "linux/bashed/10 - enumeration.md",
