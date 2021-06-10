@@ -1,6 +1,6 @@
 
 # Assorted Tips
-[test](assorted_notes_and_tips)
+[test](assorted_notes_and_tips.md)
 
 # list of boxes and completion
 
