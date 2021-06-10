@@ -2,13 +2,13 @@
 # list of boxes and completion
 
 ## linux
-- [x] lame [[linux/lame/imported notes]](linux/lame/imported notes.md)
+- [x] lame [linux/lame/imported notes](linux/lame/imported notes.md)
 - [ ] brainfuck
-- [x] shocker [[linux/shocker/10 - enumeration]](linux/shocker/10 - enumeration.md)
-- [x] bashed [[linux/bashed/10 - enumeration]](linux/bashed/10 - enumeration.md)
+- [x] shocker [linux/shocker/10 - enumeration](linux/shocker/10 - enumeration.md)
+- [x] bashed [linux/bashed/10 - enumeration](linux/bashed/10 - enumeration.md)
 - [ ] nibbles
-- [x] beep [[linux/beep/imported notes]](linux/beep/imported notes.md)
-- [x] cronos [[linux/cronos/10 - Enumeration]](linux/cronos/10 - Enumeration.md)
+- [x] beep [linux/beep/imported notes](linux/beep/imported notes.md)
+- [x] cronos [linux/cronos/10 - Enumeration](linux/cronos/10 - Enumeration.md)
 - [ ] nineveh
 - [ ] sense
 - [ ] solidstate
@@ -20,10 +20,10 @@
 - [ ] tartarsauce
 
 ## windows
-- [x] legacy [[windows/legacy/imported notes]](windows/legacy/imported notes.md)
-- [x] Blue [[windows/blue/imported notes]](windows/blue/imported notes.md)
-- [x] Devel [[windows/devel/imported notes]](windows/devel/imported notes.md)
-- [x] Optimum [[enumeration and exploit]](windows/optimum/enumeration and exploit.md)
+- [x] legacy [windows/legacy/imported notes](windows/legacy/imported notes.md)
+- [x] Blue [windows/blue/imported notes](windows/blue/imported notes.md)
+- [x] Devel [windows/devel/imported notes](windows/devel/imported notes.md)
+- [x] Optimum [enumeration and exploit](windows/optimum/enumeration and exploit.md)
 - [ ] Bastard
 - [ ] granny
 - [ ] Arctic
