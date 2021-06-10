@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -89,6 +89,7 @@
   "active": "f0818505d04c98c7",
   "lastOpenFiles": [
     "README.md",
+    "linux/lame/imported notes.md",
     "windows/optimum/enumeration and exploit.md",
     "Assorted Notes and Tips.md",
     "linux/cronos/10 - Enumeration.md",
