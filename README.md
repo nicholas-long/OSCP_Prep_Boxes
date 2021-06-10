@@ -4,8 +4,8 @@
 ## linux
 - [x] lame [[linux/lame/imported notes]](linux/lame/imported%20notes.md)
 - [ ] brainfuck
-- [x] shocker [linux/shocker/10 - enumeration](linux/shocker/10%20-%20enumeration.md)
-- [x] bashed [linux/bashed/10 - enumeration](linux/bashed/10 - enumeration.md)
+- [x] shocker [[linux/shocker/10 - enumeration]](linux/shocker/10%20-%20enumeration.md)
+- [x] bashed [[linux/bashed/10 - enumeration]](linux/bashed/10+-+enumeration.md)
 - [ ] nibbles
 - [x] beep [linux/beep/imported notes](linux/beep/imported notes.md)
 - [x] cronos [linux/cronos/10 - Enumeration](linux/cronos/10 - Enumeration.md)

@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "README.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -89,6 +89,7 @@
   "active": "3e084204169b4315",
   "lastOpenFiles": [
     "README.md",
+    "linux/bashed/10 - enumeration.md",
     "OSCP Preparation/linux/shocker/10 - enumeration.md",
     "linux/lame/imported notes.md",
     "windows/optimum/enumeration and exploit.md",
