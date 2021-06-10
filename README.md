@@ -3,7 +3,7 @@
 # list of boxes and completion
 
 ## linux
-- [x] lame [[linux/lame/imported notes]](linux/lame/imported notes)
+- [x] lame [linux/lame/imported notes](linux/lame/imported notes)
 - [ ] brainfuck
 - [x] shocker [[OSCP Preparation/linux/shocker/10 - enumeration]]
 - [x] bashed [[OSCP Preparation/linux/bashed/10 - enumeration]]
