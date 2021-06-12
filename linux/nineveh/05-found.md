@@ -1,7 +1,9 @@
+# Loot and findings
+
 ## email
 admin@nineveh.htb
 
-## passwd: found from [[20-exploit#LFI]]
+## passwd: found from [[20-exploit#LFI]](20-exploit.md#LFI)
 ```
 root:x:0:0:root:/root:/bin/bash
 daemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
@@ -35,3 +37,10 @@ dnsmasq:x:110:65534:dnsmasq,,,:/var/lib/misc:/bin/false
 amrois:x:1000:1000:,,,:/home/amrois:/bin/bash
 sshd:x:111:65534::/var/run/sshd:/usr/sbin/nologin
 ```
+
+## Credentials
+|user|pass|location|reference|
+|---|---|---|---|
+|(no username)|password123| (https) nineveh.htb/db/|[[20-exploit#phpLiteAdmin]](20-exploit.md#phpLiteAdmin)
+|admin|1q2w3e4r5t|nineveh.htb/department|[[20-exploit#Brute force login]](20-exploit#Brute%20force%20login)
+

