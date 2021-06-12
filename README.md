@@ -9,7 +9,7 @@
 - [ ] nibbles
 - [x] beep [[linux/beep/imported notes]](linux/beep/imported%20notes.md)
 - [x] cronos [[linux/cronos/README]](linux/cronos/README.md)
-- [x] nineveh [[linux/nineveh/10-enumeration]](linux/nineveh/10-enumeration.md)
+- [x] nineveh [[linux/nineveh/README]](linux/nineveh/README.md)
 - [ ] sense
 - [ ] solidstate
 - [ ] kotarak

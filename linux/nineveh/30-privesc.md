@@ -1,3 +1,5 @@
+# Privelege escalation
+
 ## linpeas
 ```bash
 [+] .sh files in path

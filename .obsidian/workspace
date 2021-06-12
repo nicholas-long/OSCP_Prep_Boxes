@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "linux/nineveh/10-enumeration.md",
+            "file": "README.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "linux/nineveh/10-enumeration.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "3e084204169b4315",
   "lastOpenFiles": [
-    "linux/nineveh/10-enumeration.md",
     "README.md",
+    "linux/nineveh/README.md",
     "linux/nineveh/30-privesc.md",
     "linux/nineveh/20-exploit.md",
+    "linux/nineveh/10-enumeration.md",
     "linux/nineveh/05-found.md",
     "Untitled.md",
     "linux/nineveh/Pasted image 20210611171803.png",
     "linux/nineveh/Pasted image 20210611171645.png",
-    "linux/nineveh/Pasted image 20210611165640.png",
-    "linux/nineveh/Pasted image 20210611162721.png"
+    "linux/nineveh/Pasted image 20210611165640.png"
   ]
 }
