@@ -89,9 +89,9 @@
   "active": "3e084204169b4315",
   "lastOpenFiles": [
     "linux/nineveh/05-found.md",
-    "linux/nineveh/README.md",
-    "linux/nineveh/30-privesc.md",
     "linux/nineveh/20-exploit.md",
+    "linux/nineveh/30-privesc.md",
+    "linux/nineveh/README.md",
     "README.md",
     "linux/nineveh/10-enumeration.md",
     "Untitled.md",
