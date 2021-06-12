@@ -42,5 +42,5 @@ sshd:x:111:65534::/var/run/sshd:/usr/sbin/nologin
 |user|pass|location|reference|
 |---|---|---|---|
 |(no username)|password123| (https) nineveh.htb/db/|[[20-exploit#phpLiteAdmin]](20-exploit.md#phpLiteAdmin)
-|admin|1q2w3e4r5t|nineveh.htb/department|[[20-exploit#Brute force login]](20-exploit#Brute%20force%20login)
+|admin|1q2w3e4r5t|nineveh.htb/department|[[20-exploit#Brute force login]](20-exploit.md#Brute-force-login)
 |amrois|SSH private key|SSH|[[30-privesc#Secret files]](30-privesc.md#Secret-files)
