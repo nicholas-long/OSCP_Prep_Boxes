@@ -23,6 +23,7 @@ UsePAM yes
 
 ```
 
+## Secret files
 Secret files found:
 https://nineveh.htb/secure_notes/nineveh.png
 
@@ -97,6 +98,7 @@ amrois@nineveh:/var/mail$ cat /etc/knockd.conf
 
 ```
 
+## port knocking SSH
 ```bash
 nc -w 1 $IP 571; nc -w 1 $IP 290; nc -w 1 $IP 911; ssh -i amrois.key amrois@$IP
 ```
