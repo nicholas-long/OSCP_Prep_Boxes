@@ -154,11 +154,17 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@firefart)
 
 ## Pages
 https://nineveh.htb/db/
+
 ![[https_db.png]](https_db.png)
-* known path: /var/www/ssl
+
+known path: /var/www/ssl
+
 http://nineveh.htb/department/
+
 ![[http_dept_login.png]](http_dept_login.png)
+
 username enumeration - indicates whether username is invalid as well as password
+
 Note:
 ```html
 <!-- @admin! MySQL is been installed.. please fix the login page! ~amrois -->
